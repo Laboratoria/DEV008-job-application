@@ -58,7 +58,7 @@
           <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0">
             Taller: Historia de vida y habilidades transferibles.
           </a>
-          <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">
+          <a href="https://docs.google.com/presentation/d/1x2xFZea24zJz4TeDAstzvF1SP3BrQcDI-z4QNLlDnEk/edit?usp=sharing">
             (Pre-work)
           </a>
         </li>
